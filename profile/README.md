@@ -9,6 +9,6 @@ We are current or former members of two university chairs:
 * Assessment of IP-based Applications (AIPA, Telekom Innovation Laboratories / TU Berlin, Germany  
 <!-- 
 https://www.aipa.tu-berlin.de/menue/assessment_of_ip_based_applications/  : link does not work anymore
-..>
+-->
 
 Checkout our [overviewpage](https://telecommunication-telemedia-assessment.github.io/).
